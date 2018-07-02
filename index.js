@@ -1,1 +1,1 @@
-module.exports = require('./lib/electrum_client');
+module.exports = require('./lib/batch_client');
